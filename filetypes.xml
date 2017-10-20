@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="" />
+    <extensionMap>
+      <mapping pattern=".*.html" type="HTML" />
+      <mapping ext="feed" type="HTML" />
+      <mapping ext="php" type="HTML" />
+      <mapping ext="conf" type="HTML" />
+      <mapping ext="list" type="HTML" />
+      <mapping ext="region" type="HTML" />
+      <mapping pattern=".landing.html" type="PLAIN_TEXT" />
+      <mapping pattern=".footer" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>

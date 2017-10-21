@@ -67,6 +67,7 @@
     <local-interpreter path="/usr/local/bin/node">
       <npm-package value="/usr/local/lib/node_modules/npm" />
     </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.9.1/bin/node" />
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="4.2.4" last-modified="1453310200000" />

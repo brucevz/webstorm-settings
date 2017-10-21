@@ -1,12 +1,1 @@
-<code_scheme name="Default">
-  <codeStyleSettings language="CSS">
-    <indentOptions>
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="LESS">
-    <indentOptions>
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-</code_scheme>
+<code_scheme name="Default" />

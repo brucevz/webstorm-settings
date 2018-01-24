@@ -25,6 +25,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="e5b1d633-2050-468b-96e3-3d60482bfad8" name="ee.getsellr.com FTP" url="http://ee.getsellr.com">
+        <fileTransfer host="52.24.89.238" port="22" rootFolder="/var/www/vhosts/expertoncue.com/beta.getsellr.com-2017" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

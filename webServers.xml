@@ -20,7 +20,7 @@
       <webServer id="d57a4b63-7f57-4439-93b0-f9cc75624622" name="Northlands" url="http://23.21.102.49">
         <fileTransfer host="23.21.102.49" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>

@@ -41,6 +41,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="39be6a5b-20a7-46a3-8061-0ace0fbc72cd" name="411 FTP" url="http://23.21.102.49">
+        <fileTransfer host="23.21.102.49" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

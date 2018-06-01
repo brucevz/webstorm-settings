@@ -49,6 +49,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="8d59d099-a602-4446-a779-3873b3186e22" name="Matchstic" url="http://23.21.102.49">
+        <fileTransfer host="23.21.102.49" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

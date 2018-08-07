@@ -34,11 +34,11 @@
         </fileTransfer>
       </webServer>
       <webServer id="89048b46-8f75-400a-98b7-fffc5ed56fae" name="Sellr Clients" url="http://52.24.89.238">
-        <fileTransfer host="52.24.89.238" port="21">
+        <fileTransfer host="52.24.89.238" port="22" rootFolder="/var/www/vhosts/sellrclients.com/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="39be6a5b-20a7-46a3-8061-0ace0fbc72cd" name="411 FTP" url="http://23.21.102.49">

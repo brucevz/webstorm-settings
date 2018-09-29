@@ -4,15 +4,20 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightThickness" value="1" />
     <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="rightTreeIndent" value="14" />
     <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="32" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="customSidebarHeight" value="20" />
+    <option name="darkTitleBar" value="true" />
     <option name="indicatorStyle" value="Dot" />
     <option name="tabOpacity" value="10" />
-    <option name="settingsSelectedTab" value="5" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="userId" value="-9f3a1df:1662668f5e0:-7fff" />
+    <option name="treeFontSizeEnabled" value="true" />
     <option name="isHighContrast" value="true" />
+    <option name="indicatorThickness" value="1" />
     <option name="isWizardShown" value="true" />
   </component>
 </application>

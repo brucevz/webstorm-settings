@@ -22,4 +22,7 @@
     </option>
     <option name="cloneParentDir" value="/Volumes/iMac_External/Ext_Repo" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  </component>
 </application>

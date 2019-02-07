@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="6bd86836-a649-4d49-b41d-f95fc89e3742" name="OnCue GFTS" url="http://gfts.sllr.io">
-        <fileTransfer host="52.24.89.238" port="22" rootFolder="/var/www/vhosts/expertoncue.com/gfts.sllr.io" accessType="SFTP">
+        <fileTransfer host="52.24.89.238" port="22" rootFolder="/var/www/vhosts/expertoncue.com/locations.bev.tv" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

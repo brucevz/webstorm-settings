@@ -3,14 +3,15 @@
     <extensionMap>
       <mapping pattern=".*.html" type="HTML" />
       <mapping ext="feed" type="HTML" />
-      <mapping ext="php" type="HTML" />
       <mapping ext="conf" type="HTML" />
+      <mapping ext="php" type="HTML" />
       <mapping ext="list" type="HTML" />
+      <mapping ext="liquid" type="HTML" />
       <mapping ext="region" type="HTML" />
-      <mapping pattern=".footer" type="PLAIN_TEXT" />
-      <mapping pattern=".landing.html" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_backup" type="PLAIN_TEXT" />
+      <mapping pattern=".footer" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess copy" type="PLAIN_TEXT" />
+      <mapping pattern=".landing.html" type="PLAIN_TEXT" />
       <mapping ext="ttaccess" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="XHTML" />
     </extensionMap>

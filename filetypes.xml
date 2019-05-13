@@ -8,6 +8,7 @@
       <mapping ext="list" type="HTML" />
       <mapping ext="liquid" type="HTML" />
       <mapping ext="region" type="HTML" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_backup" type="PLAIN_TEXT" />
       <mapping pattern=".footer" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess copy" type="PLAIN_TEXT" />

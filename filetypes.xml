@@ -14,6 +14,7 @@
       <mapping pattern=".htaccess copy" type="PLAIN_TEXT" />
       <mapping pattern=".landing.html" type="PLAIN_TEXT" />
       <mapping ext="ttaccess" type="PLAIN_TEXT" />
+      <mapping ext="mwb" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="XHTML" />
     </extensionMap>
   </component>

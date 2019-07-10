@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/Safely-AI/portal-be.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.heroku.com" />
+          <option name="userName" value="bruce@inovo.io" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/repo" />

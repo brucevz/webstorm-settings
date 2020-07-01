@@ -5,5 +5,23 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.region</mask>
+    <mask>*.htm</mask>
+    <mask>*.liquid</mask>
+    <mask>*.shtml</mask>
+    <mask>*.list</mask>
+    <mask>*.php</mask>
+    <mask>*.conf</mask>
+    <mask>*.shtm</mask>
+    <mask>*.sht</mask>
+    <mask>*.ng</mask>
+    <mask>*.feed</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
   </component>
 </application>

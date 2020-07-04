@@ -14,9 +14,10 @@
       <mapping pattern=".footer" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess copy" type="PLAIN_TEXT" />
       <mapping pattern=".landing.html" type="PLAIN_TEXT" />
+      <mapping ext="mwb" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="ttaccess" type="PLAIN_TEXT" />
-      <mapping ext="mwb" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="XHTML" />
     </extensionMap>

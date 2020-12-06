@@ -1,5 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="customTreeIndentEnabled" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
@@ -12,10 +14,10 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="2" />
     <option name="settingsSelectedTab" value="3" />
-    <option name="tabsHeight" value="32" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-9f3a1df:1662668f5e0:-7fff" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="5.5.0" />
   </component>
 </application>

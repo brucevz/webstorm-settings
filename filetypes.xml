@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="CoffeeTimer.js" type="AUTO_DETECTED" />
       <mapping pattern=".*.html" type="HTML" />
       <mapping ext="liquid" type="HTML" />
       <mapping ext="php" type="HTML" />

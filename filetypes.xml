@@ -6,7 +6,6 @@
       <mapping pattern=".*.html" type="HTML" />
       <mapping ext="liquid" type="HTML" />
       <mapping ext="php" type="HTML" />
-      <mapping ext="ng" type="HTML" />
       <mapping ext="region" type="HTML" />
       <mapping ext="conf" type="HTML" />
       <mapping ext="feed" type="HTML" />
@@ -22,10 +21,10 @@
       <mapping ext="ttaccess" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="XHTML" />
-      <mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
       <mapping pattern="tsconfig.lib.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
